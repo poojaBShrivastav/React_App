@@ -1,22 +1,30 @@
 {
   "files": {
-    "main.css": "/React_App/static/css/main.0797e0d4.css",
-    "main.js": "/React_App/static/js/main.9d2ed7a0.js",
-    "static/js/787.5448bcf0.chunk.js": "/React_App/static/js/787.5448bcf0.chunk.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/React_App/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/fontawesome-webfont.eot": "/React_App/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/React_App/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/bootstrap-icons.woff?": "/React_App/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
-    "static/media/bootstrap-icons.woff2?": "/React_App/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/React_App/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/React_App/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "index.html": "/React_App/index.html",
-    "main.0797e0d4.css.map": "/React_App/static/css/main.0797e0d4.css.map",
-    "main.9d2ed7a0.js.map": "/React_App/static/js/main.9d2ed7a0.js.map",
-    "787.5448bcf0.chunk.js.map": "/React_App/static/js/787.5448bcf0.chunk.js.map"
+    "main.css": "/poojaBShrivastav/React_App/static/css/main.dab923e3.css",
+    "main.js": "/poojaBShrivastav/React_App/static/js/main.a569f6ad.js",
+    "static/js/787.5448bcf0.chunk.js": "/poojaBShrivastav/React_App/static/js/787.5448bcf0.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/poojaBShrivastav/React_App/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/poojaBShrivastav/React_App/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/poojaBShrivastav/React_App/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/bootstrap-icons.woff?": "/poojaBShrivastav/React_App/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/poojaBShrivastav/React_App/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/internship.jpg": "/poojaBShrivastav/React_App/static/media/internship.5fb263a80a9172563a3c.jpg",
+    "static/media/training.webp": "/poojaBShrivastav/React_App/static/media/training.f9cb47c705bdfa760175.webp",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/poojaBShrivastav/React_App/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/Zara.jpg": "/poojaBShrivastav/React_App/static/media/Zara.b23bc95c12c99920670a.jpg",
+    "static/media/java.webp": "/poojaBShrivastav/React_App/static/media/java.4d9916ccf9b2af6ad3d0.webp",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/poojaBShrivastav/React_App/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/c_c++.avif": "/poojaBShrivastav/React_App/static/media/c_c++.127f3a16c2778d3c8f61.avif",
+    "static/media/sbit_logo.png": "/poojaBShrivastav/React_App/static/media/sbit_logo.3e797b56d0ebbd29d411.png",
+    "static/media/react.jpg": "/poojaBShrivastav/React_App/static/media/react.fc8f9b68f2d4c5543379.jpg",
+    "static/media/py.png": "/poojaBShrivastav/React_App/static/media/py.d5ce1e2a4bb09177ed94.png",
+    "index.html": "/poojaBShrivastav/React_App/index.html",
+    "main.dab923e3.css.map": "/poojaBShrivastav/React_App/static/css/main.dab923e3.css.map",
+    "main.a569f6ad.js.map": "/poojaBShrivastav/React_App/static/js/main.a569f6ad.js.map",
+    "787.5448bcf0.chunk.js.map": "/poojaBShrivastav/React_App/static/js/787.5448bcf0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0797e0d4.css",
-    "static/js/main.9d2ed7a0.js"
+    "static/css/main.dab923e3.css",
+    "static/js/main.a569f6ad.js"
   ]
 }
